@@ -8,8 +8,8 @@ Among Us MODの「Who-is-suspicious」略して「wis」
 - 1人開始
 - wisスタンプ
 
-## 導入方法
-w i s.dll を BepInEx/plugins に入れてください
+## 仕様
+誰かが入るまで「プレイヤーを待っています...」表記ですが気にしないでください！
 
 ## 必要
 - BepInEx 6 IL2CPP
