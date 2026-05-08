@@ -1,6 +1,8 @@
-# wis
+# Who-is-suspiciousとは
 
-Among Us MOD「wis」
+Among Us MODの「Who-is-suspicious」略して「wis」
+翻訳すると疑わしいのは誰のような文になります。
+作者が少ないし知識不足なのでポンコツですが皆さんが楽しく遊べるようにします！
 
 ## 現在の機能
 - 1人開始
