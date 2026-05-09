@@ -12,7 +12,7 @@ Among Us MODの「Who-is-suspicious」略して「wis」
 誰かが入るまで「プレイヤーを待っています...」表記ですが気にしないでください！
 
 ## 必要
-- BepInEx 6 IL2CPP
+- Steam版のアモングアス
 
 ## 注意
 - MOD使用時はAmong Us公式へのバグ報告をしないでください
@@ -20,3 +20,7 @@ Among Us MODの「Who-is-suspicious」略して「wis」
 - 現在リリースはSteamのみです。
 ## Discord
 https://discord.gg/cxWENJbm5D
+
+## 参考にしていただいたMod様
+TOHK(便利機能などファイル構成などを拝見したりフォークに少しだけ手を出しました！）
+NoS（アドオン作りでクライアントがわかりました！）
