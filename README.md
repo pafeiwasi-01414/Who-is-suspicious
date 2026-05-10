@@ -22,7 +22,7 @@ Among Us MODの「Who-is-suspicious」略して「wis」
 - バグ報告や質問などはディスコードでお願いします。
 ## Discord
 https://discord.gg/cxWENJbm5D
-
+バグ報告などはこちらへ、質問などはPull Requwst でもOKです。
 ## 参考にしていただいたMod様
 TOHK(とにかくたくさん参考になりました！）
 NoS（アドオン作りでクライアントがわかりました！）
