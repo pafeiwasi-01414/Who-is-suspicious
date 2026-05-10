@@ -1,3 +1,4 @@
+# 必ず利用する方はお読みください
 # Who-is-suspiciousとは
 
 Among Us MODの「Who-is-suspicious」略して「wis」
@@ -15,12 +16,13 @@ Among Us MODの「Who-is-suspicious」略して「wis」
 - Steam版のアモングアス
 
 ## 注意
-- MOD使用時はAmong Us公式へのバグ報告をしないでください
-- 公開ルームでは使用しないでください
+- MOD使用時はAmong Us公式へのバグ報告をしないでください。
+- 公開ルームでは使用しないでください。
 - 現在リリースはSteamのみです。
+- バグ報告や質問などはディスコードでお願いします。
 ## Discord
 https://discord.gg/cxWENJbm5D
 
 ## 参考にしていただいたMod様
-TOHK(便利機能などファイル構成などを拝見したりフォークに少しだけ手を出しました！）
+TOHK(とにかくたくさん参考になりました！）
 NoS（アドオン作りでクライアントがわかりました！）
