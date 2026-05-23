@@ -18,7 +18,7 @@ Among Us MODの「Who-is-suspicious」略して「wis」
 ## 注意
 - MOD使用時はAmong Us公式へのバグ報告をしないでください。
 - 公開ルームでは使用しないでください。
-- 現在リリースはSteamのみです。
+- 現在リリースはSteamのみです。すいません。
 - バグ報告や質問などはディスコードでお願いします。
 ## Discord
 https://discord.gg/cxWENJbm5D
