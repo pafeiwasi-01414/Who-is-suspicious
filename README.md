@@ -27,3 +27,5 @@ https://discord.gg/cxWENJbm5D
 ## 参考にしていただいたMod様
 TOHK(とにかくたくさん参考になりました！）
 NoS（アドオン作りでクライアントがわかりました！）
+TOHPko (サンタの仕組みとか拝見)
+SNR、TOHY、TOH(いろいろ）
