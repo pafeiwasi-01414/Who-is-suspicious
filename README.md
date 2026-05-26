@@ -25,7 +25,6 @@ Among Us MODの「Who-is-suspicious」略して「wis」
 https://discord.gg/cxWENJbm5D
 バグ報告などはこちらへ、質問などはPull Requwst でもOKです。
 ## 参考にしていただいたMod様
-TOHK(とにかくたくさん参考になりました！）
-NoS（アドオン作りでクライアントがわかりました！）
-TOHPko (サンタの仕組みとか拝見)
-SNR、TOHY、TOH(いろいろ）
+TOHK(ファイル構成、移植などたくさん）
+TOHPko (サンタの仕組みとか拝見、wiki参考)
+SNR、TOHY、TOH(移植系）
