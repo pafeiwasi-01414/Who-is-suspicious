@@ -9,9 +9,7 @@ Among Us MODの「Who-is-suspicious」略して「wis」
 ## 現在の機能
 - 1人開始
 - wisスタンプ
-
-## 仕様
-誰かが入るまで「プレイヤーを待っています...」表記ですが気にしないでください！
+- 公開ルームにできなくなった
 
 ## 必要
 - Steam版のアモングアス
@@ -20,6 +18,7 @@ Among Us MODの「Who-is-suspicious」略して「wis」
 - MOD使用時はAmong Us公式へのバグ報告をしないでください。
 - 公開ルームでは使用しないでください。
 - 現在リリースはSteamのみです。すいません。
+- ６月のリリースはもうないです。
 - バグ報告や質問などはディスコードでお願いします。
 ## Discord
 https://discord.gg/cxWENJbm5D
